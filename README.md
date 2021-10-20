@@ -64,8 +64,4 @@ void branch(float h, int n) {
         popMatrix(); 
 
     }
-
-
-
-
 }
